@@ -1,0 +1,23 @@
+[
+  {
+    "id": "youssef-egypt-recomp",
+    "image": "./assets/img/youssef-egypt-recomp.png",
+    "title": "Youssef (Egypt) — Recomp — 3 Months",
+    "caption_ar": "يوسف • مصر 🇪🇬 • 3 شهور • الهدف: Recomp (خسارة دهون + زيادة عضل)",
+    "caption_en": "Youssef • Egypt 🇪🇬 • 3 Months • Goal: Recomp (lose fat + gain muscle)"
+  },
+  {
+    "id": "hamza-jordan-bulking",
+    "image": "./assets/img/hamza-jordan-bulking.png",
+    "title": "Hamza (Jordan) — Bulking — 6 Months",
+    "caption_ar": "حمزة • الأردن 🇯🇴 • 6 شهور • الهدف: Bulking (زيادة كتلة عضلية)",
+    "caption_en": "Hamza • Jordan 🇯🇴 • 6 Months • Goal: Bulking (muscle gain)"
+  },
+  {
+    "id": "hamza-jordan-minicut",
+    "image": "./assets/img/hamza-jordan-minicut.png",
+    "title": "Hamza (Jordan) — Mini cut — 3 Months",
+    "caption_ar": "حمزة • الأردن 🇯🇴 • 3 شهور • الهدف: Mini cut (تنشيف سريع)",
+    "caption_en": "Hamza • Jordan 🇯🇴 • 3 Months • Goal: Mini cut (quick cut)"
+  }
+]
